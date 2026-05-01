@@ -1,6 +1,6 @@
 # Multi-Channel Content Repurposer
 
-Turn any YouTube video into ready-to-post content for Twitter, LinkedIn, and your blog — in one command.
+Turn any YouTube video into ready-to-post content for Twitter, LinkedIn, and your blog - in one command.
 
 ```bash
 python repurpose.py "https://www.youtube.com/watch?v=VIDEO_ID"
@@ -13,7 +13,7 @@ python repurpose.py "https://www.youtube.com/watch?v=VIDEO_ID"
 3. Feeds the transcript to GPT-4o-mini and generates platform-specific posts
 4. Saves everything to the `output/` folder as Markdown files
 
-No subtitles? No problem — the Whisper fallback handles it automatically.
+No subtitles? No problem - the Whisper fallback handles it automatically.
 
 ## Output
 
@@ -60,10 +60,10 @@ Some videos require you to be signed in. If you hit that, export cookies from yo
 
 ## Stack
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — subtitles and audio extraction
-- [faster-whisper](https://github.com/SYSTRAN/faster-whisper) — local speech-to-text
-- [openai-python](https://github.com/openai/openai-python) — GPT-4o-mini
-- [rich](https://github.com/Textualize/rich) — terminal output
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - subtitles and audio extraction
+- [faster-whisper](https://github.com/SYSTRAN/faster-whisper) - local speech-to-text
+- [openai-python](https://github.com/openai/openai-python) - GPT-4o-mini
+- [rich](https://github.com/Textualize/rich) - terminal output
 
 ## License
 
