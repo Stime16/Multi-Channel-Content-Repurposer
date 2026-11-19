@@ -1,3 +1,0 @@
-# Netscape HTTP Cookie File
-# Export your YouTube cookies here using the "Get cookies.txt LOCALLY" Chrome extension.
-# See COOKIES_SETUP.md for instructions.
