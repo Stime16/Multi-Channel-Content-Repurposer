@@ -1,0 +1,5 @@
+# secrets
+cookies.txt
+cookies.json
+.env
+__pycache__/

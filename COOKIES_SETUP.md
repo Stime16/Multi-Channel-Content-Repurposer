@@ -27,4 +27,3 @@ Replace `chrome` with `firefox` or `edge` if needed.
 
 - Cookies expire after a week or two - if the script stops working, re-export them
 - The `cookies.txt` file is basically a session token for your account - don't share it or commit it to a repo
-- The included `cookies.txt` is an empty template - fill it with your own exported cookies
